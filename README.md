@@ -2,6 +2,10 @@
 
 Timor AI is a smart Flutter-based personal assistant application designed to help users interact with an AI chatbot, upload images for AI-powered analysis, and use voice-driven conversations. The app combines modern UI design with Gemini AI, speech recognition, and text-to-speech features to create an intuitive and engaging assistant experience.
 
+## Demo Video
+
+[Watch the Timor AI demo](https://drive.google.com/file/d/1uFCRUJrR8IR65oLvSYvwq7sIkuob081V/view?usp=sharing)
+
 ## Project Summary
 
 Timor AI is built to offer a simple and friendly AI assistant for everyday use. Users can:
@@ -102,22 +106,6 @@ assets/
 flutter pub get
 flutter run
 ```
-
-## Demo Video
-
-A demo video can be added here to showcase the app's functionality.
-
-Recommended options:
-
-- Upload the video to GitHub release assets
-- Add it to a Google Drive or YouTube link
-- Embed a video link in this README after recording the app demo
-
-Example placeholder:
-
-## Demo Video
-
-[Watch the Timor AI demo](assets/Demo.mp4)
 
 ## Notes
 
