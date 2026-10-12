@@ -117,7 +117,7 @@ Example placeholder:
 
 ## Demo Video
 
-[Watch the Timor AI demo](assets/demo.mp4)
+[Watch the Timor AI demo](assets/Demo.mp4)
 
 ## Notes
 
